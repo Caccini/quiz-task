@@ -1,0 +1,188 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "What is the smalles planet in the Solar System?",
+            "options": [
+                {
+                    "id": "A",
+                    "text": "Earth"
+                },
+                {
+                    "id": "B",
+                    "text": "Mars"
+                },
+                {
+                    "id": "C",
+                    "text": "Mercury"
+                },
+                {
+                    "id": "D",
+                    "text": "Venus"
+                }
+            ],
+            "correct": "C"
+        },
+        {
+            "id": 2,
+            "text": "What is the largest planet in the Solar System?",
+            "options": [
+                {  
+                    "id": "A",
+                    "text": "Earth"
+                },
+                {
+                    "id": "B",
+                    "text": "Jupiter"
+                },
+                {
+                    "id": "C",
+                    "text": "Neptune"
+                },
+                {
+                    "id": "D",
+                    "text": "Saturn"
+                }
+            ],
+            "correct": "B"
+        },
+        {
+            "id": 3,
+            "text": "Which planet is closest to the sun?",
+            "options": [
+                {
+                    "id": "A",
+                    "text": "Jupiter"
+                },
+                {
+                    "id": "B",
+                    "text": "Mercury"
+                },
+                {
+                    "id": "C",
+                    "text": "Venus"
+                },
+                {
+                    "id": "D",
+                    "text": "Different planets at different times"
+                }
+            ],
+            "correct": "B"
+        },
+        {
+            "id": 4,
+            "text": "Which planet is furthest from the sun?",
+            "options": [
+                {
+                    "id": "A",
+                    "text": "Neptune"
+                },
+                {
+                    "id": "B",
+                    "text": "Saturn"
+                },
+                {
+                    "id": "C",
+                    "text": "Uranus"
+                },
+                {
+                    "id": "D",
+                    "text": "Different planets at different times"
+                }
+            ],
+            "correct": "A"
+        },
+        {
+            "id": 5,
+            "text": "Which planet is closest to Earth?",
+            "options": [
+                {
+                    "id": "A",
+                    "text": "Mars"
+                },
+                {
+                    "id": "B",
+                    "text": "Saturn"
+                },
+                {
+                    "id": "C",
+                    "text": "Venus"
+                },
+                {
+                    "id": "D",
+                    "text": "Different planets at different times"
+                }
+            ],
+            "correct": "D"
+        },
+        {
+            "id": 6,
+            "text": "What is the hottest planet by average surface temperature?",
+            "options": [
+                {
+                    "id": "A",
+                    "text": "Jupiter"
+                },
+                {
+                    "id": "B",
+                    "text": "Mercury"
+                },
+                {
+                    "id": "C",
+                    "text": "Uranus"
+                },
+                {
+                    "id": "D",
+                    "text": "Venus"
+                }
+            ],
+            "correct": "D"
+        },
+        {
+            "id": 7,
+            "text": "Which planet is closest in size to Earth?",
+            "options": [
+                {
+                    "id": "A",
+                    "text": "Mars"
+                },
+                {
+                    "id": "B",
+                    "text": "Mercury"
+                },
+                {
+                    "id": "C",
+                    "text": "Neptune"
+                },
+                {
+                    "id": "D",
+                    "text": "Venus"
+                }
+            ],
+            "correct": "D"
+        },
+        {
+            "id": 8,
+            "text": "Which planet has exactly two moons?",
+            "options": [
+                {
+                    "id": "A",
+                    "text": "Mars"
+                },
+                {
+                    "id": "B",
+                    "text": "Neptune"
+                },
+                {
+                    "id": "C",
+                    "text": "Uranus"
+                },
+                {
+                    "id": "D",
+                    "text": "Venus"
+                }
+            ],
+            "correct": "A"
+        }
+    ]
+}
